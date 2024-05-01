@@ -1,4 +1,4 @@
-Requirement.txt file
+Requirement.txt file :
 
 asgiref==3.8.1
 
